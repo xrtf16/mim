@@ -17,8 +17,8 @@ BOT_USERNAME = getenv("BOT_USERNAME")
 UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/lMl10l/lMl10l")
 UPSTREAM_BRANCH = getenv("UPSTREM_BRANCH", "main")
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "60"))
-GROUP_SUPPORT = getenv("GROUP_SUPPORT", "jepthonsupport")
-UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "jepthon")
+GROUP_SUPPORT = getenv("GROUP_SUPPORT", "X_8_00")
+UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "X_8_00")
 
 # database, decorators, handlers mandatory vars
 MONGODB_URL = getenv("MONGODB_URL")
